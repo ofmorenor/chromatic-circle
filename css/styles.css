@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+}
+#circle-container {
+    margin: auto;
+    position: relative;
+    height: 550px;
+    width: 550px;
+}
+.circle-point {
+    position: absolute !important;
+    font-size: 20px;
+}
+#btn-next {
+    position: absolute !important;
+    top: 50%;
+    left: 105%;
+    font-weight: bold;
+}
+#btn-back {
+    position: absolute !important;
+    top: 50%;
+    right: 105%;
+    font-weight: bold;
+}
