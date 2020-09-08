@@ -27,3 +27,6 @@ h1 {
     right: 105%;
     font-weight: bold;
 }
+#intervals-container div{
+    font-size: 13px;
+}
